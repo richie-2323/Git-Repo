@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 Everyone need to learn devops because it is used in many projests across the world!.
+=======
+
+Hello! everyone
+
+My name is homadeep Jayadhar
+
+Devops is great concept
+>>>>>>> main
