@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-devops is a great sub
-
-=======
-My name is homadeep Jayadhar
-
-
-
-
-Hello!
->>>>>>> main
+Everyone need to learn devops because it is used in many projests across the world!.
