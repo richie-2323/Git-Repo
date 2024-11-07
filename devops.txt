@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 devops is a great sub
 
+=======
+My name is homadeep Jayadhar
+
+
+
+
+Hello!
+>>>>>>> main
