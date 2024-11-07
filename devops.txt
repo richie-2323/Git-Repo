@@ -1,6 +1,17 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+devops is a great sub
+
+=======
+>>>>>>> dee34e9095d00db653907172c5f849e60ae43ab3
 My name is homadeep Jayadhar
 
 
 
 
 Hello!
+<<<<<<< HEAD
+=======
+>>>>>>> main
+>>>>>>> dee34e9095d00db653907172c5f849e60ae43ab3
